@@ -1,0 +1,4 @@
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/leathify/ticaretplus_system/vendor/all-ecommerce-api/
+        - /bin/cp * $DEPLOYPATH
