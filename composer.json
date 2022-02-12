@@ -1,0 +1,14 @@
+{
+    "name": "vahdetyvz/all-ecommerce-api",
+    "description": "Bütün Eticaret Platformların Api",
+    "type": "library",
+    "license": "Vahdet Yavuz",
+    "authors": [
+        {
+            "name": "Vahdet Yavuz",
+            "email": "vahdetyvz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
